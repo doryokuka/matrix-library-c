@@ -1,0 +1,25 @@
+# Compiler and linker output
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.dSYM/
+build/
+/lab7_tests
+/lab7_benchmark
+/lab7_practice
+
+# Operating system metadata
+.DS_Store
+._*
+__MACOSX/
+Thumbs.db
+
+# Editor temporary files
+*.swp
+*.swo
+*~
